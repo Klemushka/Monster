@@ -1,4 +1,4 @@
-#include "MapGenerator.h"
+#include "../include/MapGenerator.h"
 #include <iostream>
 
 MapGenerator::MapGenerator(void)

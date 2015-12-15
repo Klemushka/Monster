@@ -1,4 +1,4 @@
-#include "Game.h"
+#include "../include/Game.h"
 
 Game::Game(void): game_width(640), game_height(480) //Не пугайтесь, это всего лишь инициализация переменных
 {
